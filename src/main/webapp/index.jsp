@@ -1,22 +1,8 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
-
-<a href="www.ashokit.in">Click Here To See Ashok IT Training Schedules</a>
-  
-  <h2> Call Us : 8978021168  +91-9985396677  </h2>
-  
-  <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
-  <h1> I made thissss changes </h1>
-<h1> India </h1>
-
-<h1> bapatla gadiyaram </h1>
-
-<h1> Pspk </h1>
-
-<h1> Mangapathi fans </h1>
-<h1> Salaar on 21 </h1>
-<h1> Salaar on 21 yaaaaayayayayyyyyyyayayayaaaaaa</h1>
+<h1> Hi Bro Thinnava </h1>
+<h2> Decode this Ahtirahcus </h2>
+<h1> Decode it if you have brain, i hope you have one </h1>
 
 </body>
 </html>
